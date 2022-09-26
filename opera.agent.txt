@@ -1,0 +1,105 @@
+Opera/9.80 (Android; Opera Mini/7.7.40394/191.269; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/12.0.1987/37.7327; U; pl) Presto/2.12.423 Version/12.16
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/29.3417; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.2144; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/29.3709; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/28.3590; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/29.3530; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/29.3594; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/28.3392; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.2144; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.3392; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.3392; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/28.3492; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.1977; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/29.3638; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.3821; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.2075; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/27.1813; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.2443; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/29.3417; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.2197; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.3392; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/29.3530; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/29.3417; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/28.1977; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/27.1993; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.5.35152/36.1955; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.1914; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.31891/29.3417; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.1977; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/28.1977; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.0.30567/28.2647; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/29.3709; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.3590; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/28.2359; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.31891/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/28.3492; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/30.3158; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.24721/28.3182; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.24721/28.2359; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/27.1940; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/27.2020; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.13907/28.2144; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/29.3709; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/30.3112; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23453/28.3392; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/27.1573; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/27.1486; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/28.3234; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.20464/27.1486; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.20524/28.2766; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.24721/28.4079; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/28.3590; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/27.1662; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/28.2443; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/30.3214; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32249/29.3417; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/28.2144; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.24721/27.1993; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/27.1366; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/28.2173; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/28.3821; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.2504; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/28.2859; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/28.2555; U; en) Presto/2.8.119 Version/11.10
+
+
+
+
+
+
+Opera/9.80 (BlackBerry; Opera Mini/6.5.27548/28.2144; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (BlackBerry; Opera Mini/7.1.32723/29.3417; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (BlackBerry; Opera Mini/7.1.32723/29.3530; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (BlackBerry; Opera Mini/7.1.32723/29.3709; U; en) Presto/2.8.119 Version/11.10Opera/9.80 (BlackBerry; Opera Mini/6.5.27548/27.2020; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (BlackBerry; Opera Mini/7.1.32256/28.3392; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android; Opera Mini/20.0.2254/117.37; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/11.0.1912/37.7549; U; pl) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/12.0.1987/37.7206; U; pl) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/13.0.2036/37.7549; U; pl) Presto/2.12.423 Version/12.16
+Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/36.1370; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.00
+Opera/9.60 (Windows NT 5.1; U; ru) Presto/2.1.1
+Opera/10.00 (Windows NT 6.0; U; en) Presto/2.2.0
+Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.6.37 Version/11.00
+Opera/9.80 (Windows NT 6.0; U; en) Presto/2.7.39 Version/11.00
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.60
+Opera/9.80 (Windows NT 6.1; U; Distribution 00; ru) Presto/2.10.229 Version/11.60
+Opera/9.80 (Android; Opera Mini/7.5.33361/29.3417; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Series 60; Opera Mini/7.1.32444/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android; Opera Mini/12.0.1987/37.7549; U; pl) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android 4.0.3; Linux; Opera Mobi/ADR-1207201819; U; ru) Presto/2.10.254 Version/12.00
+Opera/9.80 (X11; Linux x86_64; U; en) Presto/2.8.131 Version/11.11
+Opera/9.80 (X11; Linux i686; U; ja) Presto/2.7.62 Version/11.01
+opera/9.80 (x11; linux x86_64; u; en) presto/2.9.168 version/11.50
+Opera/9.80 (S60; SymbOS; Opera Mobi/SYB-1111151949; U; en-GB) Presto/2.9.201 Version/11.50
+Opera/9.80 (Series 60; Opera Mini/7.0.31380/28.2859; U; en) Presto/2.8.119 Version/11.10
