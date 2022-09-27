@@ -69,6 +69,26 @@ Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/28.3821; U; en) Presto/2.8.119 Versi
 Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.23449/28.2504; U; en) Presto/2.8.119 Version/11.10
 Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/28.2859; U; en) Presto/2.8.119 Version/11.10
 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/28.2555; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.273; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.3.2254/191.273; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.269; U; uk) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.269; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.268; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.268; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.268; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.265; U; bg) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.265; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.3.2254/191.265; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.5.2254/191.265; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.4.2254/191.265; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.1.2254/191.265; U; pt) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.3.2254/191.265; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.2.2254/191.265; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.2.2254/191.265; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.2.2254/191.265; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.1.2254/191.262; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.1.2254/191.262; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/62.1.2254/191.256; U; pl) Presto/2.12.423 Version/12.16
 
 
 
